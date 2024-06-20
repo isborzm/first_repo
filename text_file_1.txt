@@ -1,5 +1,1 @@
 first text
-
-new row
-
-new file changed
